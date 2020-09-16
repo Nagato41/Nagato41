@@ -2,7 +2,7 @@
 
 * Software engineer.
 
-## Find me around the web 🌎: <a href="https://github.com/Nagato41"></a>
+## Find me 🌎: <a href="https://github.com/Nagato41"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Facebook :blue_book:</a>
 
 <!--
