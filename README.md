@@ -1,6 +1,6 @@
 # Hi,I'm Anukoon 👋🤔.
 
-* Software engineer.
+## Software engineer.
 
 ## Find me 🌎: <a href="https://github.com/Nagato41"></a>
 - Social <a href="https://www.twitch.tv/blacktechdiva">Facebook :blue_book:</a>
