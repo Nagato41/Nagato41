@@ -3,7 +3,7 @@
 * Software engineer.
 
 ## Find me 🌎: <a href="https://github.com/Nagato41"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Facebook :blue_book:</a>
+- Social <a href="https://www.twitch.tv/blacktechdiva">Facebook :blue_book:</a>
 
 <!--
 **Nagato41/Nagato41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
